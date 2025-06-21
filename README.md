@@ -14,13 +14,9 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek yang Sedang Dikerjakan]**.
-- 🌱 Saya sedang mendalami **[Teknologi yang Sedang Dipelajari]**.
-- 👯 Saya mencari kolaborasi untuk **[Jenis Proyek yang Diinginkan]**.
-- 🤔 Saya membutuhkan bantuan dengan **[Topik yang Membutuhkan Bantuan]**.
+- 🌱 Saya sedang mendalami **RUST**.
 - 💬 Tanya saya tentang apa pun, saya senang berbagi pengetahuan.
-- 📫 Hubungi saya melalui: **[Alamat Email Anda]**
-- 😄 Fakta menarik: **[Fakta Unik Tentang Anda]**
+- 📫 Hubungi saya melalui: **anggakatio73@gmail.com / rangga.gibran6555@student.unri.ac.id**
 
 ---
 
